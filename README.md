@@ -30,8 +30,8 @@ pip install mysql-connector-python customtkinter CTkMessagebox python-dotenv
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
-   cd <project-folder>
+   git clone https://github.com/tak-shuja/Shop-Management-DBMS.git
+   cd Shop-Management-DBMS
    ```
 
 2. **Database Setup**:
