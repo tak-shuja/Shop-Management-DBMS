@@ -10,7 +10,23 @@ This is a simple **Shop Management Database Management System (DBMS)** built usi
 - **Exit**: Gracefully exit the application.
 
 ## Screenshots
-(Add screenshots here to showcase the UI)
+
+### Main Application Window
+![Main Application Window](screenshots/shop-management.png)
+
+### Add Entry Window
+![Add Entry Window](screenshots/add-entry.png)
+
+
+### View Entries window
+![View Entries Window](screenshots/view-entries.png)
+
+### Clear Entries window
+![Clear Entries Window](screenshots/clear-entries.png)
+
+### Exit Confirmation Dialog
+![Exit Confirmation Dialog](screenshots/exit-confirm-dialog.png)
+
 
 ## Prerequisites
 
@@ -91,3 +107,5 @@ pip install mysql-connector-python customtkinter CTkMessagebox python-dotenv
 - Add data export/import features.
 
 ---
+
+
